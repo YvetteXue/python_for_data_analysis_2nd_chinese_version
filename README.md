@@ -32,20 +32,6 @@
 
 （译者注2：毫无疑问，本书是学习Python数据分析最好的参考书。本来想把书名直接译为《Python数据分析》，这样更简短。但是为了尊重第1版的翻译，考虑到继承性，还是用老书名。这样读过第一版的老读者可以方便的用之前的书名检索到第二版。作者在写第二版的时候，有些文字是照搬第一版的。所以第二版的翻译也借鉴copy了第一版翻译：即，如果第二版中有和第一版相同的文字，则copy第一版的中文译本，觉得不妥的地方会稍加修改，剩下的不同的内容就自己翻译。这样做也是为读过第一版的老读者考虑——相同的内容可以直接跳过。）
 
-***
-
-> 21年春节翻译《Pandas Cookbook》这本书，[https://www.jianshu.com/p/9115de83bb88](https://www.jianshu.com/p/9115de83bb88)
-> 
-> 结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
-
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obhbvp37j30m80m8tal.jpg" width="500px">
-    </a>
-</div>
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">购买链接</a>
-</div>
 
 ***
 
@@ -64,15 +50,3 @@
 
 曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
 
-***
-
-> 这两个多月又从头到尾看了遍第二版的文字，发现错误还真是不少。。。 T_T
-
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
-    </a>
-</div>
-<div align=center>
-    <p>我的微信·WeChat，欢迎沟通 ^_^</p>
-</div>
